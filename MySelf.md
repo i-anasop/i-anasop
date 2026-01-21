@@ -1,7 +1,7 @@
 # Hi there 👋, I’m Anas
 
 - I’m an **AI Undergraduate** interested in **Blockchain, Web3, and full-stack development**.  
-- How to reach me: **DM on X** [@0xiM5_](https://x.com/0xiM5_)  
+- How to reach me: **DM on X** [@0xiM5_](https://x.com/0xiAans)  
 - ⚡ Fun fact: Currently pursuing my **Bachelors in AI**.
 
 ---
