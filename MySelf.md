@@ -32,6 +32,12 @@ Here’s a summary of the projects I’ve built so far:
 - Built with Python, CustomTkinter UI, cryptography, and DSA-based data structures.  
 - Repo: [GitHub Link](https://github.com/i-anasop/Phantom_Wallet_Clone)
 
+### **5. TESLA – Autonomous Driving Simulator (Python + Prolog Logic)**
+- Tesla-style driving simulator with sensors, lane logic & pedestrian detection.  
+- **Python/Pygame** handles GUI + environment while **Prolog-style rules** handle safety logic.  
+- Vehicle learns from crashes via persistent memory for safer future runs.  
+- Repo: [GitHub Link]([https://github.com/i-anasop/Phantom_Wallet_Clone](https://github.com/i-anasop/Tesla))
+
 ---
 
 ## 💡 Skills & Interests
