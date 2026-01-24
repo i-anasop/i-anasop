@@ -36,7 +36,7 @@ Here’s a summary of the projects I’ve built so far:
 - Tesla-style driving simulator with sensors, lane logic & pedestrian detection.  
 - **Python/Pygame** handles GUI + environment while **Prolog-style rules** handle safety logic.  
 - Vehicle learns from crashes via persistent memory for safer future runs.  
-- Repo: [GitHub Link]([https://github.com/i-anasop/Phantom_Wallet_Clone](https://github.com/i-anasop/Tesla))
+- Repo: [GitHub Link](https://github.com/i-anasop/Tesla)
 
 ---
 
