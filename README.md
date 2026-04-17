@@ -1,10 +1,10 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=220&section=header&text=Muhammad%20Anas&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20Enthusiast%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=220&section=header&text=Muhammad%20Anas&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Blockchain%20and%20Web3%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
   </p>
 
   ### About
 
-  I build clean, functional software — from eCommerce storefronts to mobile UI clones — with a focus on usability and craft. Currently exploring agentic AI systems and modern web architecture.
+  AI Undergrad. Code in C++, Java, HTML, CSS, JS, Python. Deep into crypto & Web3 and ML.
 
   ### Featured work
 
