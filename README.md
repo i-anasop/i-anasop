@@ -8,13 +8,6 @@
 
   AI Undergrad. Code in C++, Java, HTML, CSS, JS, Python. Deep into crypto & Web3 and ML.
 
-  ### Featured work
-
-  - **[Zen Store](https://github.com/i-anasop/Zen-Store)** — Pakistani sneaker eCommerce with cart, checkout and EasyPaisa · [Live](https://i-anasop.github.io/Zen-Store/)
-  - **[Phantom Wallet Clone](https://github.com/i-anasop/Phantom_Wallet_Clone)** — Pixel-accurate clone of the Phantom wallet UI
-  - **[Tonic](https://github.com/i-anasop/Tonic)** — TypeScript application with clean architecture
-  - **[Tesla](https://github.com/i-anasop/Tesla)** — Tesla landing page recreation
-
   ### Contact
 
   <a href="mailto:anasop@example.com"><img src="https://img.shields.io/badge/Email-1e3a8a?style=flat-square&logo=gmail&logoColor=white"/></a>
