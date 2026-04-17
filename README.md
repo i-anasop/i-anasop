@@ -1,23 +1,10 @@
-<h1 align="center">Muhammad Anas</h1>
-  <p align="center"><i>AI Enthusiast · Full-Stack Developer · Lifelong Learner</i></p>
-
-  <p align="center">
-    <a href="https://github.com/i-anasop"><img src="https://komarev.com/ghpvc/?username=i-anasop&label=Profile%20views&color=1e3a8a&style=flat-square" alt="profile views"/></a>
-    <img src="https://img.shields.io/github/followers/i-anasop?label=Followers&style=flat-square&color=1e3a8a" alt="followers"/>
-    <img src="https://img.shields.io/github/stars/i-anasop?label=Stars&style=flat-square&color=1e3a8a" alt="stars"/>
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=220&section=header&text=Muhammad%20Anas&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20Enthusiast%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
   </p>
-
-  ---
 
   ### About
 
   I build clean, functional software — from eCommerce storefronts to mobile UI clones — with a focus on usability and craft. Currently exploring agentic AI systems and modern web architecture.
-
-  ### Tech
-
-  <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,cpp,tailwind,git&perline=10" alt="tech"/>
-  </p>
 
   ### Featured work
 
@@ -26,15 +13,8 @@
   - **[Tonic](https://github.com/i-anasop/Tonic)** — TypeScript application with clean architecture
   - **[Tesla](https://github.com/i-anasop/Tesla)** — Tesla landing page recreation
 
-  ### Stats
-
-  <p align="center">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=i-anasop&show_icons=true&hide_border=true&theme=default&include_all_commits=true"/>
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-anasop&layout=compact&hide_border=true&theme=default&langs_count=6"/>
-  </p>
-
   ### Contact
 
   <a href="mailto:anasop@example.com"><img src="https://img.shields.io/badge/Email-1e3a8a?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://i-anasop.github.io/Zen-Store/"><img src="https://img.shields.io/badge/Portfolio-3b82f6?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://x.com/i_anasop"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
   
