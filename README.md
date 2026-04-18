@@ -10,6 +10,5 @@
 
   ### Contact
 
-  <a href="mailto:anasop@example.com"><img src="https://img.shields.io/badge/Email-1e3a8a?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://x.com/i_anasop"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
   
